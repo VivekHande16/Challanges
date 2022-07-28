@@ -1,0 +1,14 @@
+{
+  "name": "challange3",
+  "version": "1.0.0",
+  "description": "Challenge 3",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vivek Hande",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}

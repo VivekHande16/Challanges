@@ -1,0 +1,16 @@
+{
+  "name": "challange2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "/script.js"
+  },
+  "author": "Vivek Hande",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fetch": "^1.1.0",
+    "requests": "^0.3.0"
+  }
+}
